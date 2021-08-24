@@ -85,17 +85,15 @@ Investigue la representación de la onda senoidal, tanto en su forma gráfica co
 
 **4.5.4. Responda las siguientes preguntas:**
 
-¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
-___________
+¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida? ___________
 
 ¿En qué valor está posicionada la perilla VOLTS/DIV? ___________
 
-¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
-__________
+¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida? __________
 
 ¿En qué valor está posicionada la perilla TIME/DIV? ___________
 
-**4.5.5.¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
+**4.5.5.¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?**
 
 Amplitud de voltaje: ____________(V)
 
