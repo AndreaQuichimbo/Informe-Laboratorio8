@@ -30,10 +30,15 @@ Ing. Darwin Omar Alulema Flores
 
 1.1.1. Objetivo general
 
-
+- Determinar experimentalmente las características de señales senoidales.
 
 1.1.2. Objetivos específicoso
 
+- Construir un circuito que muestre como se comporta una onda senoidal.
+- Obtener una visión más clara de como se interpreta una onda senoidal.
+- Calcular los componentes de la onda senoidal y comparar con los resultados del simulador.
+- Conocer los instrumentos que mides estos valores (valor medio y valor eficaz). Verificar el valor de lafrecuencia. 
+- Analizar y determinar en forma experimental los valores medios y eficaces en un circuito de corrientealterna (C.A.) resistivo, con rectificador de media onda y con rectificador de onda completa.
 
 **1.2. REQUISITOS PREVIOS**
 
