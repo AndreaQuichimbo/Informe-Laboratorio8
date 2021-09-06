@@ -46,15 +46,21 @@ Investigue la representación de la onda senoidal, tanto en su forma gráfica co
 
 **1.3. INFORMACIÓN GENERAL**
 
+<div align="center">
+  
+**ONDA SENOIDAL**
 
+![image](https://user-images.githubusercontent.com/84430867/132164920-04e7c7d4-8cdc-4b6f-bc7b-09d7dbfdc5b9.png)
 
+</div>
 
 
 # 2 MARCO TEÓRICO
 
 <div align="center">
   
-  
+![image](https://user-images.githubusercontent.com/84430867/132164538-ad58616a-d928-458c-8c1c-fcb48bd00627.png)
+ 
 </div>
 
 # 3 MATERIAL Y EQUIPO REQUERIDO
@@ -119,6 +125,10 @@ f: _____________(Hz)
 # 5 VIDEO 
 
 # 6 CONCLUSIONES 
+
+- Las ondas senoidales son patrones de ondas que matemáticamente pueden ser descritas mediante las funciones seno y coseno. Describen acertadamente eventos naturales y señales variables en el tiempo, tales como los voltajes generados por centrales eléctricas y luego utilizados en hogares, industrias y calles.
+- La altura de la onda en cualquier lugar y tiempo, medida desde el centro (posición de equilibrio) es la magnitud de desplazamiento. El maximo del magnitud de desplazamiento se llama la amplitud de la onda.
+- Las características de amplitud y frecuencia son controladas mediante perillas, respetando tanto la forma de onda de las tres señales senoidales, como su amplitud simétrica con respecto a cero volts.
 
 # 7 BIBLIOGRAFÍAS
 
