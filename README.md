@@ -161,6 +161,8 @@ El voltaje obtenido en el punto 4.5 es de 6,86 V mientras que en el punto 4.7 ti
 
 # 5 VIDEO 
 
+https://youtu.be/PXbgiP9wQ2s
+
 # 6 CONCLUSIONES 
 
 - Las ondas senoidales son patrones de ondas que matemáticamente pueden ser descritas mediante las funciones seno y coseno. Describen acertadamente eventos naturales y señales variables en el tiempo, tales como los voltajes generados por centrales eléctricas y luego utilizados en hogares, industrias y calles.
