@@ -109,31 +109,41 @@ Los inversores de onda modificada son para aparatos que no tengan motor y no fun
 
 **4.5.4. Responda las siguientes preguntas:**
 
-¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida? ___________
+¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida? 
 
-¿En qué valor está posicionada la perilla VOLTS/DIV? ___________
+Tiene aproximadamente 2.3 divisiones por cuadro.
 
-¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida? __________
+¿En qué valor está posicionada la perilla VOLTS/DIV?
 
-¿En qué valor está posicionada la perilla TIME/DIV? ___________
+Está posicionada en el valor de 3.
+
+¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
+
+El ciclo completo abarca 4.6 cuadros aproximadamente.
+
+¿En qué valor está posicionada la perilla TIME/DIV? 
+
+En el valor de 0,1m.
 
 **4.5.5.¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?**
 
-Amplitud de voltaje: ____________(V)
+Amplitud de voltaje: 6.83(V)
 
-Periodo: ____________(s)
+Periodo: 12/0.0004(s)
 
 **4.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.**
 
-f: _____________(Hz)
+f: 0.16(Hz)
 
-ω: ____________(rad/s)
+ω: 1.005(rad/s)
 
-**4.5.7. Con el multímetro digital mida el voltaje de salida en RL: _______________**
+**4.5.7. Con el multímetro digital mida el voltaje de salida en RL: 4.84**
 
 **4.5.8. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.**
 
-¿Coinciden? _______ ¿Por qué?
+¿Coinciden?¿Por qué?
+
+El voltaje obtenido en el punto 4.5 es de 6,86 V mientras que en el punto 4.7 tiene un valor de 4,84 V por lo que no coinciden porque el valor del punto 4.5 es el valor del voltaje pico obtenido del osciloscopio mientras que el valor de punto 4.7 es el valor del voltaje rms obtenido por el multímetro.
 
 # 5 VIDEO 
 
