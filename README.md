@@ -137,7 +137,13 @@ f: 0.16(Hz)
 
 ω: 1.005(rad/s)
 
-**4.5.7. Con el multímetro digital mida el voltaje de salida en RL: 4.84**
+**4.5.7. Con el multímetro digital mida el voltaje de salida en RL: 4.957**
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84430867/132281190-4bd2f3ca-6da6-4c13-974c-7b192ac7ed34.png)
+
+</div>
 
 **4.5.8. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.**
 
