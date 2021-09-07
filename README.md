@@ -54,6 +54,15 @@ Investigue la representación de la onda senoidal, tanto en su forma gráfica co
 
 </div>
 
+Uno de los diferentes tipos de inversores que existen es el inversor de onda senoidal, siendo el de onda senoidal pura el más recomendable. Para comprender su función debes tener claro en qué se diferencian la corriente continua y la alterna:
+
+La diferencia entre corriente continua y alterna, es que la corriente continua emite un flujo en una sola dirección, mientras que en la corriente alterna, este flujo cambia rápidamente de dirección. La frecuencia con la que el flujo eléctrico cambia de dirección puede medirse. En España, por ejemplo, esa frecuencia es de 50 ciclos por segundo. Existe un movimiento hacia arriba y otro hacia abajo, por lo que en total, el flujo de corriente cambia de dirección 100 veces por segundo.
+
+Las ondas senoidales, como su nombre indica, están descritas por una ley senoidal (dependen del seno), es este tipo de corriente la que suministra una compañía eléctrica, o un generador diésel, por ejemplo.
+
+La tarea de los inversores de onda senoidal, consiste en transformar la corriente continua proveniente de paneles solares fotovoltaicos, acumuladores o transformadores, en corriente alterna con un flujo de tipo senoidal.
+
+Los inversores de onda modificada son para aparatos que no tengan motor y no funcionan bien con aparatos complejos. Los inversores de onda senoidal pura generan la misma onda que tenemos en nuestra vivienda y funcionan con todo tipo de aparatos o de electrónica sensible.
 
 # 2 MARCO TEÓRICO
 
