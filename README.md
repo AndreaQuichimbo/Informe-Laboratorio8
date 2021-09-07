@@ -101,11 +101,19 @@ Los inversores de onda modificada son para aparatos que no tengan motor y no fun
 
 **4.5.2.. Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a una frecuencia de 2.5 Khz.**
 
+<div align="center">
+  
 ![1](https://user-images.githubusercontent.com/84587172/132263233-c33d872a-d744-4523-a595-ed118e4dfc65.png)
+
+</div>
 
 **4.5.3. Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en el osciloscopio.**
 
+<div align="center">
+  
 ![2](https://user-images.githubusercontent.com/84587172/132263244-4805ba52-5e0f-4b32-9434-87a7b5de9bec.png)
+
+</div>
 
 **4.5.4. Responda las siguientes preguntas:**
 
